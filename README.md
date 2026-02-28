@@ -1,2 +1,4 @@
 # Rock-Paper-Scissors-.java
 This project creates a console-based Rock-Paper-Scissors game in Java. Scanner for user input and Random class for the computer's move. The game relies on if-else statements to compare choices, determine the winner, and loops until the user decides to quit. It helps beginners practice core Java skills like loops, conditional logic, &amp; i/o handling.
+
+This console-based Java game pits a user against a random computer opponent. It leverages the built-in java.util.Scanner class to get user input from the command line and the Random class to generate the computer's choice. The program uses simple if-else logic or a switch statement to compare choices, determine the round's winner, update scores, and loop for multiple rounds until the user decides to quit. This project is ideal for beginners to practice core Java concepts like loops, conditionals, and input/output handling.
